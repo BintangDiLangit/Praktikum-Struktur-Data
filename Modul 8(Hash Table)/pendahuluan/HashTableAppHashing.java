@@ -7,7 +7,7 @@ package pendahuluan_prak_8;
 
 /**
  *
- * @author str5
+ * @author BintangDiLangit
  */
 class Link {
 
