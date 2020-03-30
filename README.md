@@ -1,0 +1,3 @@
+# Praktikum-Struktur-Data
+Don't Copy Paste...
+Semoga Membantu
