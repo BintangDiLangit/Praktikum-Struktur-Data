@@ -9,7 +9,7 @@ import java.util.Stack;
 
 /**
  *
- * @author str5
+ * @author BintangDiLangit
  */
 public class Node {
 
